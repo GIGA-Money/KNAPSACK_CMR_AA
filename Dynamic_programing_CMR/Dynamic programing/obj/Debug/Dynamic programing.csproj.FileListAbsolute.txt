@@ -1,0 +1,14 @@
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.csprojAssemblyReference.cache
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.csproj.CoreCompileInputs.cache
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\bin\Debug\Dynamic programing.exe.config
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\bin\Debug\Dynamic programing.exe
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\bin\Debug\Dynamic programing.pdb
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.exe
+J:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.pdb
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\bin\Debug\Dynamic programing.exe.config
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\bin\Debug\Dynamic programing.exe
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\bin\Debug\Dynamic programing.pdb
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.csprojAssemblyReference.cache
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.csproj.CoreCompileInputs.cache
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.exe
+H:\School and more\Fall18\AdvAlgo\A1CSH\Dynamic_programing_CMR\Dynamic programing\obj\Debug\Dynamic programing.pdb
